@@ -54,3 +54,6 @@ po/*~
 rsconnect/
 **/.DS_Store
 *.Rproj
+
+# One-time setup script
+setup-github.R
